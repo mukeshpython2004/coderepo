@@ -1,0 +1,5 @@
+name,type,nullable
+id,IntegerType,true
+name,StringType,true
+timestamp,TimestampType,false
+	
